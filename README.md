@@ -13,4 +13,11 @@
     4. end Screen with Score, HighScore, and Balls Played<br>
     5. I kept and displayed the player name hroughout the Game<br>
   </body>
-
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <body>
+ There was no speed setting to the ball to change the game play speed. I tried to mess around with the ball mass but that didn't work with the forces set for the road and other things.</body>
+ 
